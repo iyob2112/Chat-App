@@ -1,0 +1,16 @@
+{
+  "name": "backend_chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "div": "nodemon insex"  },
+  "author": "",
+  "license": "ISC"
+}
